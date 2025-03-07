@@ -89,7 +89,7 @@ Contributions are welcome! Feel free to **fork** this repository and submit a **
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License** - feel free to modify and use it as needed!
+This project is licensed under the **MIT License**
 
 ---
 

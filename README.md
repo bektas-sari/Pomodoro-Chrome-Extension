@@ -83,7 +83,7 @@ Contributions are welcome! Feel free to **fork** this repository and submit a **
 ---
 ## 👤 Developer  
 
-**Dr. Bektas Sari**  
+**Bektas Sari**  
 - **Email:** [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)  
 - **GitHub:** [github.com/bektas-sari](https://github.com/bektas-sari)  
 - **LinkedIn:** [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)  

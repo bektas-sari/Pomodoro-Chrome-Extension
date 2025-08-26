@@ -82,10 +82,14 @@ Contributions are welcome! Feel free to **fork** this repository and submit a **
 
 ---
 
-## 📩 Contact
-- **Email:** [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)
-- **GitHub:** [bektas-sari](https://github.com/bektas-sari)
+## 👤 Developer
 
+**Bektas Sari**  
+Email: bektas.sari@gmail.com  <br>
+GitHub: https://github.com/bektas-sari <br>
+LinkedIn: www.linkedin.com/in/bektas-sari <br>
+Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3 <br>
+Academia: https://independent.academia.edu/bektassari <br>
 ---
 
 ## 📜 License
